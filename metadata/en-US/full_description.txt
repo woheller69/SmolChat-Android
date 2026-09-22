@@ -1,7 +1,0 @@
-SmolChat is an open-source Android app which allows users to download any SLM/LLM available in the GGUF format and interact with them via a chat interface. The inference works locally, on-device respecting the privacy of your chats/data.
-
-The app provides a simple user interface to manage chats, where each chat is associated with one of the downloaded models. Inference parameters like temperature, min-p and the system prompt could also be modified.
-
-SLMs have also been useful for smaller, downstream tasks such as text summarization and rewriting. Considering this ability, the app allows for the creation of 'tasks' which are lightweight chats with predefined system prompts and a model of choice. Just tap 'New Task' and you can summarize, rewrite your text easily.
-
-GitHub Project: https://github.com/shubham0204/SmolChat-Android

@@ -1,1 +1,0 @@
-SmolChat - Run LLMs locally on your mobile
