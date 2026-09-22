@@ -1,8 +1,5 @@
 import java.net.URI
 
-include(":smolvectordb")
-
-
 pluginManagement {
     repositories {
         google {
@@ -29,7 +26,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SmolChat Android"
-include(":app")
+rootProject.name = "SmolChat Android Library"
 include(":smollm")
-include(":hf-model-hub-api")
